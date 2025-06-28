@@ -4,7 +4,7 @@ How to Update Kia GPS? 🧭🚗
 
 Is your Kia taking you down the wrong road? 😓 It might be time for a **Kia GPS update**! Keeping your navigation system current is super important for accurate directions, updated speed limits, and discovering new roads. 🛣️
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
